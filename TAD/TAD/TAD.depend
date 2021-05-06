@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613426339 source:c:\users\gusta\google drive\programação\c\estruturas de dados\tad\tad\cordenadas.c
+	<stdlib.h>
+	<math.h>
+	"Cordenadas.h"
+
+1613426357 c:\users\gusta\google drive\programação\c\estruturas de dados\tad\tad\cordenadas.h
+
+1613426950 source:c:\users\gusta\google drive\programação\c\estruturas de dados\tad\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cordenadas.h"
+

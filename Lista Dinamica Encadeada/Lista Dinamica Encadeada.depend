@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1613607340 source:c:\users\gusta\google drive\programação\c\estruturas de dados\lista dinamica encadeada\listadinencad.c
+	"ListaDinEncad.h"
+	"stdlib.h"
+
+1613601880 c:\users\gusta\google drive\programação\c\estruturas de dados\lista dinamica encadeada\listadinencad.h
+
+1613601877 source:c:\users\gusta\google drive\programação\c\estruturas de dados\lista dinamica encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+

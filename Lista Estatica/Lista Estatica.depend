@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1613439166 source:c:\users\gusta\google drive\programação\c\estruturas de dados\lista estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1613510426 c:\users\gusta\google drive\programação\c\estruturas de dados\lista estatica\listasequencial.h
+
+1613510625 source:c:\users\gusta\google drive\programação\c\estruturas de dados\lista estatica\listasequencial.c
+	"ListaSequencial.h"
+	<stdlib.h>
+
