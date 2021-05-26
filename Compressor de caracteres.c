@@ -1,3 +1,10 @@
+/*Compressor orientado à caracteres.
+O compressor deverá ser construído em camadas, baseando-se nas técnicas de mapa de bits e de meio byte.
+Dado um arquivo texto fornecido pelo usuário, o programa deve, numa primeira camada, 
+computar as frequências de cada caractere, tomando aquele mais frequente para a aplicação do compressor de mapa de bits. 
+Em seguida, numa segunda camada, deve comprimir sequências numéricas. A melhor estratégia deve ser definida por você.*/
+
+
 #include <stdio.h>
 #include <string.h>
 
