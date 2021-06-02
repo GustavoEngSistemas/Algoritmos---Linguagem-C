@@ -1,3 +1,9 @@
+/*
+  Compressor de caracteres utilizando o algoritmo de Huffman
+  Desenvolvido para transformar um arquivo .txt em um arquivo .bin
+  O arquivo .bin contêm um cabeçalho para descompressão.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
